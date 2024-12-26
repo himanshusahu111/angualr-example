@@ -1,0 +1,11 @@
+.mat-mdc-table{
+  background-color: #fff;
+  border: 1px solid #74777f !important;
+}
+::ng-deep .mat-mdc-table thead tr{
+  background-color: #c5c5c5;
+}
+.mat-mdc-table tbody tr td.mat-mdc-header-cell{
+  background-color:#fff;
+}
+

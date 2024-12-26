@@ -1,0 +1,20 @@
+.example-action-buttons {
+  padding-bottom: 20px;
+}
+
+.example-headers-align .mat-expansion-panel-header-description {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.example-headers-align .mat-mdc-form-field + .mat-mdc-form-field {
+  margin-left: 8px;
+}
+::ng-deep .mat-mdc-form-field{
+  width: 100%;
+  display: flex;
+}
+.example-button-row button{
+  max-width: 600px;
+  min-width:150px !important;
+}
